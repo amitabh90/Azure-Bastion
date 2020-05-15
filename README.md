@@ -2,6 +2,7 @@
 
 This powershell will create the below Azure resources if it does not exists.
 
+ Markup : * Bullet list
  --One Virtual Network
  --Will add two subnet "Prod-Subnet" and  "AzureBastionSubnet"
  --A public Ip
