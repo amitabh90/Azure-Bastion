@@ -1,4 +1,4 @@
-# This script is going to deploy Azure Bastion service
+# Deploy Azure Bastion service
 
 This powershell will create the below Azure resources if it does not exist.
 
