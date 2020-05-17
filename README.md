@@ -13,3 +13,5 @@ This powershell will create the below Azure resources if it does not exist.
 5.A virtual machine in "Prod-Subnet"
 
 Please refer to Azure-Bastion-Overview file for detail Architectural overview.
+
+*********  WORK IN PROGRESS *********
